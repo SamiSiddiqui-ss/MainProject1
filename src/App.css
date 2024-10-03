@@ -1,0 +1,6 @@
+body{
+    font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
+}
+.shadow-top {
+    box-shadow: 0 -4px 6px -1px rgba(255, 255, 255, 0.6), 0 -1px 4px -1px rgba(255, 255, 255, 0.6);
+}

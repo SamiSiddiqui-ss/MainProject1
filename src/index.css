@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.sami{
+    font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', serif;
+    color: black;
+}
+.buttonn{
+border: 1px solid black;
+padding: 10px;
+background-color: black;
+color: white;
+}
+.btns:hover{
+    background-color: transparent !important;
+    color: black;
+
+}
+#Nav {
+    transition: background-color 0.3s ease;
+  }
+  
